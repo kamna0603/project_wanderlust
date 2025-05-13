@@ -18,3 +18,6 @@
 - *Authentication*: JWT
 - *Cloud Services*: Cloudinary (for image uploads)
 
+ 🌐 Live Demo
+
+🔗 Click here to visit the live site-------https://project-wanderlust-2-ud7g.onrender.com
